@@ -1,4 +1,10 @@
 {
+  "users": [
+    { "userid": "jdoe", "fname": "John", "lname": "Doe" },
+    { "userid": "lphilip", "fname": "Louise", "lname": "Philip" },
+    { "userid": "jchan", "fname": "Jackie", "lname": "Chan" },
+    { "userid": "blee", "fname": "Bruce", "lname": "Lee" }
+  ], 
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
@@ -9,6 +15,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "sdabbeeru"
   }
 }
