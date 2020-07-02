@@ -1,7 +1,7 @@
 #Introduction
 
 ## Second level Heading
-
+Adding additional text to showcase the rebase example.
 ### Third level heading
 
 [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
