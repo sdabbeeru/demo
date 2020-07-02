@@ -9,4 +9,5 @@ Adding additional text to showcase the rebase example.
 ## Use your own data
 
 Fork it and change `db.json` values or create a repo with a `db.json` file.
--[] Create a TODO list :tada:
+
+- [ ] Create a TODO list :tada:
